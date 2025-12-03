@@ -1,2 +1,2 @@
 # quantum-casimir-functions
-Mathematica code for verifying self-adjoint quantum Casimir functions.
+This repository contains code used to verify a result in a research paper that I am currently preparing.
